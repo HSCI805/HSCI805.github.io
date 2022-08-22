@@ -12,14 +12,14 @@
 | 1| Sep 13 | |  |
 | 2| Sep 20 | |
 | 3| Sep 27 | |
-| 4| Oct 4 | |
-| 5| Oct 11 |  |
-| 6| Oct 18 | |
-| 7| Oct 25 |  |
+| 4| Oct 4 | Paper 1, Paper 2|
+| 5| Oct 11 | Paper 3, Paper 4 |
+| 6| Oct 18 | Paper 5, Paper 6|
+| 7| Oct 25 | Paper 7, Paper 8 |
 | 8| Nov 1| |
-| 9| Nov 8| |
-| 10| Nov 15| |
-| 11| Nov 22| |
-| 12| Nov 29 | Last class |
-
+| 9| Nov 8| Paper 9, Paper 10 |
+| 10| Nov 15| Prsenter 11, Presenter 12 |
+| 11| Nov 22| Term project presentations - Part 1 |
+| 12| Nov 29 | Term project presentations - Part 2 |
+| 13 | Dec 6 | Review |
 
