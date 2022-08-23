@@ -8,7 +8,7 @@
 
 ## Term project: 40%
 
-3: 5-minute teaser + Q/A
-3: 1 page proposal
-28: Term report
-6: Extended presentations near the end of term
+- 3%: 5-minute teaser + Q/A
+- 3%: 1 page proposal
+- 6%: Extended presentations near the end of term
+- 28%: Term report
