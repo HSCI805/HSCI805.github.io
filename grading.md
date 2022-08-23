@@ -1,7 +1,7 @@
 
 
 ## In-class exercises & participation
-- ~2% per class 
+- 2% per class 
 
 ## Exams: 40%
 
