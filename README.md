@@ -10,7 +10,7 @@
 | Lecture | Date | Agenda | Notes |
 |:---|:---|:---|:---|
 | 1| Sep 13 | |  |
-| 2| Sep 20 | Group presentations |
+| 2| Sep 20 | Mini group presentations |
 | 3| Sep 27 | Paper 0 |
 | 4| Oct 4 | Paper 1, Paper 2|
 | 5| Oct 11 | Paper 3, Paper 4 |
