@@ -1,3 +1,3 @@
-# Fun resources
+## Calculator
 
 https://www.statulator.com/
