@@ -20,6 +20,7 @@ $ df=read_csv('https://raw.githubusercontent.com/HSCI805/HSCI805.github.io/main/
   - http://mortalityanalysis.mit.edu/JTxt_data/All/Cervical%20Cancer.xls
   - http://mortalityanalysis.mit.edu/JTxt_data/All/Lip%20Cancer.xls
   - http://mortalityanalysis.mit.edu/JTxt_data/All/Lung%20Cancer.xls
+  - More details maybe found in thesis https://dspace.mit.edu/handle/1721.1/45459
 
 ### RNA
 
