@@ -11,8 +11,8 @@
 |:---|:---|:---|:---|
 | 1| Sep 13 | |  |
 | 2| Sep 20 | Mini group presentations |
-| 3| Sep 27 | Paper 0 |
-| 4| Oct 4 | Paper 1, Paper 2|
+| 3| Sep 27 |  |
+| 4| Oct 4 | Paper 0, Paper 1, Paper 2|
 | 5| Oct 11 | Paper 3, Paper 4 |
 | 6| Oct 18 | Paper 5, Paper 6|
 | 7| Oct 25 | Paper 7, Paper 8 |
