@@ -8,6 +8,13 @@ $ df=read_csv('https://raw.githubusercontent.com/HSCI805/HSCI805.github.io/main/
 $ df=read_csv('https://raw.githubusercontent.com/HSCI805/HSCI805.github.io/main/datasets/LungCapData2.csv', show_col_types = F)
 ```
 
+## Misc
+
+```
+inchbio <- read.csv("https://derekogle.com/IFAR/scripts/inchBio.csv", header=TRUE)
+```
+
+
 ## R ```utils``` library
 
 [Some datasets available in R](opensource/R_datasets.md)
