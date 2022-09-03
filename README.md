@@ -10,7 +10,7 @@
 - Students are expected to come to all classes 
 - **Missing a single class will result in losing 2% of final grade** 
 - Attendance is defined as being physically present during class times  
-- Students that arrive consistently late (>10 minutes late) or frequently leave class early will incur low participation grade 
+- Students who arrive late or leave class early will incur low participation grade for that class
 - Missing class is only permitted with prior permission from instructor (e.g. due to illness or family circumstances, etc.) 
 - Missing class is not permitted for conference presentations, employment or other workshop or courses
 
