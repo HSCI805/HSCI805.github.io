@@ -1,5 +1,13 @@
  
-# HSCI 805 - Fall 2022
+# HSCI 805 (Fall 2022) Course syllabus
+
+## Topics
+
+- Study designs
+- Measuring disease occurrences
+- Survival data and analysis models
+- Multivariable analyses
+
 
 ## Administration
 - Office hours by appointment only
