@@ -1,6 +1,14 @@
 ## Under ```opensource``` folder
 
 ```
+ library(readr)
+# ?readr_example
+df<- read.csv('https://raw.githubusercontent.com/HSCI805/HSCI805.github.io/main/datasets/opensource/boneden.csv')
+head(df,3)
+```
+
+
+```
 $ df=read_csv('https://raw.githubusercontent.com/HSCI805/HSCI805.github.io/main/datasets/wsg.csv', show_col_types = F)
 ```
 
@@ -8,7 +16,14 @@ $ df=read_csv('https://raw.githubusercontent.com/HSCI805/HSCI805.github.io/main/
 $ df=read_csv('https://raw.githubusercontent.com/HSCI805/HSCI805.github.io/main/datasets/LungCapData2.csv', show_col_types = F)
 ```
 
-## Misc
+## IO
+
+```
+library(haven)
+childIQ<-read_dta( 'https://github.com/medewitt/introduction_to_r/blob/master/data/child.iq.dta?raw=true')
+head(childIQ,3)
+```
+
 
 ```
 inchbio <- read.csv("https://derekogle.com/IFAR/scripts/inchBio.csv", header=TRUE)
