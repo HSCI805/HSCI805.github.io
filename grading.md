@@ -1,18 +1,21 @@
 
-## In-class exercises & participation (20%) 
+## In-class exercises & participation (25%) 
 
-- Participation
+- Participation: 15
+
 - Paper presentation: 6%
+- paper reviews: 4% (2 reviews, 2% each)
 
-## Exams (40%)
+## Exams (35%)
 
-Details to be determined
-
+- Two exams: 10+25
+ 
 ## Term project (40%)
 
-- 3%: 5-minute progress update + Q/A
-- 3%: written proposal
-- 6%: Extended presentations near the end of term
+- 2%: 5-minute progress update + Q/A
+- 2%: first sketch 
+- 2%: first draft
+- 6%: presentation (class #11 or class #12)
 - 28%: Term report
 
 
