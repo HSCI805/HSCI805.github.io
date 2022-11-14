@@ -3,11 +3,14 @@
 
 ## Topics
 
-- Study designs
-- Measuring disease occurrences
+- Review of fundamentals
+ - Measuring disease occurrences
+ - Statistical analysis tests
+ - Study designs
+- Clinical epi
 - Survival data and analysis models
 - Multivariable analyses
-
+- Replication
 
 ## Administration
 - Office hours by appointment only
@@ -16,10 +19,8 @@
 ## Attendance 
 
 - Students are expected to come to all classes 
-- **Missing a single class will result in losing 2% of final grade** 
-- Attendance is defined as being physically present during class times  
+ - **Missing a single class will result in losing participation marks for that class** 
+ - Attendance is defined as being physically present during class times  
 - Students who arrive late or leave class early will incur low participation grade for that class
-- Missing class is only permitted with prior permission from instructor (e.g. due to illness or family circumstances, etc.) 
-- Missing class is not permitted for conference presentations, employment or other workshop or courses
 
 
