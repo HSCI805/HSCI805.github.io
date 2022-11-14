@@ -1,25 +1,27 @@
 
-## In-class exercises & participation (25%) 
+## In-class exercises & participation (29%) 
 
-- Participation: 15
+- Participation: 20 (2% per class; exclude week 1, midterm 1, 2) 
+- Paper presentation - paired: 3%
+- Paper presentation - individual: 6%
+ 
+## Mini courseworks (6%)
+- 1 bonus + 5 set, one to two per week
 
-- Paper presentation: 6%
-- paper reviews: 4% (2 reviews, 2% each)
+## Exams (25%)
 
-## Exams (35%)
-
-- Two exams: 10+25
+- Midterm 1: 10
+- Midterm 2: 15
  
 ## Term project (40%)
 
-- 2%: 5-minute progress update + Q/A
-- 2%: first sketch 
-- 2%: first draft
-- 6%: presentation (class #11 or class #12)
-- 28%: Term report
+- D1, 3%: conceptualization
+- D2, 6%: structured progress update 
+- D3, 10%: first draft (one month before due date of D5)
+- D4, 6%: presentation (lass class)
+- D5, 15%: term report (one week after last class)
 
-
-## Submission
+## Submission of coursework
 
 Written work for this course will be submitted via Turnitin, a third-party service licensed for use by SFU. Turnitin is used for originality checking to help detect plagiarism. Students will be required to create an account with Turnitin, and to submit their work via that account, on the terms stipulated in the agreement between the student and Turnitin. This agreement includes the retention of your submitted work as part of the Turnitin database. Any student with a concern about using the Turnitin service may opt to use an anonymous identity in their interactions with Turnitin. Students who do not intend to use Turnitin in the standard manner must notify the instructor at least two weeks in advance of any submission deadline. In particular, it is the responsibility of any student using the anonymous option (i.e., false name and temporary email address created for the purpose) to inform the instructor such that the instructor can match up the anonymous identity with the student.
 
