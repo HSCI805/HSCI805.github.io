@@ -1,25 +1,28 @@
 
-## In-class exercises & participation (29%) 
+## In-class exercises & participation 
 
-- Participation: 20 (2% per class; exclude week 1, midterm 1, 2) 
+- Participation: 10 (1% per class)
 - Paper presentation - paired: 3%
 - Paper presentation - individual: 6%
- 
-## Mini courseworks (6%)
-- 1 bonus + 5 set, one to two per week
 
-## Exams (25%)
+  
+## Bonus courseworks 
+
+- Earn points toward midterm 2
+ 
+## Exams (35%)
 
 - Midterm 1: 10
-- Midterm 2: 15
+- Midterm 2: 25
  
-## Term project (40%)
+## Term project (46%)
 
 - D1, 3%: conceptualization
 - D2, 6%: structured progress update 
 - D3, 10%: first draft (one month before due date of D5)
-- D4, 6%: presentation (lass class)
+- Peer review: 6%
 - D5, 15%: term report (one week after last class)
+- D4, 6%: pre-recorded presentation 
 
 ## Submission of coursework
 
